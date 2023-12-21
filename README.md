@@ -12,7 +12,7 @@ Skills: VUE JS / HTML / CSS
 - 📫 How to reach me: https://t.me/SUP_IZ_MOLUSKOV 
 - ⚡ Fun fact: Jesus love you 
 and finally:
-ef="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
+<img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
 
 
 
